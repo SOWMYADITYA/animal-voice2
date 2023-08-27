@@ -1,0 +1,32 @@
+body{
+    background-color: aqua;
+    font-family: 'Pacifico', cursive;
+}
+.header_div{
+    background-color: aliceblue;
+    color: crimson;
+    box-shadow: 5px 5px 5px black;
+}
+.header_div p{
+    color: darkgrey;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.footer{
+    position: fixed;
+    color: lightslategrey;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: azure;
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px gray;
+}
